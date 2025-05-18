@@ -2,7 +2,7 @@
 
 This is a simple RESTful API built with Node.js, Express.js, and PostgreSQL that allows users to shorten long URLs. It supports creating, retrieving, updating, deleting short URLs, and tracking how many times each short URL has been accessed.
 
-## 🚀 Features
+## Features
 
 - Create a new short URL
 - Retrieve original URL using a short code
